@@ -11,7 +11,7 @@ from constants import (
 )
 
 
-####################
+#################pip install streamlit-pills###
 #### STREAMLIT #####
 ####################
 
